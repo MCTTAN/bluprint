@@ -1,0 +1,7 @@
+library(RCurl)
+library(jsonlite)
+library(dplyr)
+library(sp)
+library(ggplot2)
+library(data.table)
+library(gganimate)
